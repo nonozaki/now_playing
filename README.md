@@ -1,3 +1,5 @@
 now_playing
 ===========
-test
+
+MikutterでRhythBoxで聴いている曲をつぶやくプラウグイン
+はじめて、Rubyでまともに書いたコードなので多分ツッコミどころ満載
